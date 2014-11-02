@@ -1,0 +1,7 @@
+LIBRARY
+LIBRARY	"CompTest"
+EXPORTS
+DllCanUnloadNow
+DllGetClassObject
+DllUnregisterServer
+DllRegisterServer

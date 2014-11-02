@@ -1,0 +1,2 @@
+本示例主要是用于说明创建基本的com组件并且使用com组件
+示例来源于网络：http://blog.csdn.net/liwang112358/article/details/7364676
